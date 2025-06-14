@@ -15,4 +15,4 @@ This app allows users to search weather by city name and displays temperature, w
 
 ## 📸 Screenshots
 
-![Weather App Screenshot](image/screenshot.png)
+![Weather-App](image/screenshot.png.PNG)
